@@ -1,0 +1,446 @@
+2025-12-24 00:01:44.fff | === LOG CLEARED ===
+2025-12-24 00:01:49.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:01:49.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:01:50.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:01:51.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:01:51.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:01:51.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:01:51.fff | space:: fired (tap detected)
+2025-12-24 00:01:51.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:01:55.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:01:55.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:55.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:55.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:55.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:56.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:56.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:56.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:56.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:56.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:01:56.fff | Timer: RELEASE confirmed after 78ms - deactivating space mode
+2025-12-24 00:01:56.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:01:56.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:57.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:57.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:01:58.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:01:58.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:01:58.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:01:58.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:01:58.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:01:59.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:04.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:04.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:02:04.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:04.fff | space:: fired (tap detected)
+2025-12-24 00:02:05.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:02:09.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:09.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:09.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:02:11.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:11.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:11.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:02:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:12.fff | space:: fired (tap detected)
+2025-12-24 00:02:12.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:02:21.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:21.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:21.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:21.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:22.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:23.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:23.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:02:26.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:26.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:28.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:28.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:28.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:28.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:29.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:29.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:02:40.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:40.fff | space:: fired (tap detected)
+2025-12-24 00:02:40.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:02:40.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:40.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:02:41.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:02:41.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:02:41.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:02:41.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:02:41.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:41.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:02:41.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:42.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:42.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:02:42.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:42.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:02:43.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:43.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:02:46.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:02:46.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:02:47.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:03:42.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:03:42.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:03:42.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:03:43.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:03:43.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:04:14.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:04:14.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:04:14.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:04:15.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:04:15.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:04:15.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:04:15.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:04:29.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:04:29.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:04:29.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:04:44.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:04:44.fff | space:: fired (tap detected)
+2025-12-24 00:04:44.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:09.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:09.fff | space:: fired (tap detected)
+2025-12-24 00:05:09.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:12.fff | space:: fired (tap detected)
+2025-12-24 00:05:12.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:12.fff | space:: fired (tap detected)
+2025-12-24 00:05:12.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:12.fff | space:: fired (tap detected)
+2025-12-24 00:05:12.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:14.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:14.fff | space:: fired (tap detected)
+2025-12-24 00:05:14.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:15.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:15.fff | space:: fired (tap detected)
+2025-12-24 00:05:15.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:18.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:18.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:05:18.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:05:20.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:20.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:05:20.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:05:20.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:05:21.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:21.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:05:21.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:05:21.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:05:22.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:22.fff | space:: fired (tap detected)
+2025-12-24 00:05:22.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:23.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:23.fff | space:: fired (tap detected)
+2025-12-24 00:05:23.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:23.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:23.fff | space:: fired (tap detected)
+2025-12-24 00:05:23.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:26.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:27.fff | space:: fired (tap detected)
+2025-12-24 00:05:27.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:27.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:27.fff | space:: fired (tap detected)
+2025-12-24 00:05:27.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:32.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:32.fff | space:: fired (tap detected)
+2025-12-24 00:05:32.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:32.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:32.fff | space:: fired (tap detected)
+2025-12-24 00:05:32.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:34.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:34.fff | space:: fired (tap detected)
+2025-12-24 00:05:34.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:34.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:34.fff | space:: fired (tap detected)
+2025-12-24 00:05:34.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:36.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:36.fff | space:: fired (tap detected)
+2025-12-24 00:05:36.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:37.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:37.fff | space:: fired (tap detected)
+2025-12-24 00:05:37.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:37.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:38.fff | space:: fired (tap detected)
+2025-12-24 00:05:38.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:40.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:40.fff | space:: fired (tap detected)
+2025-12-24 00:05:40.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:41.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:41.fff | space:: fired (tap detected)
+2025-12-24 00:05:41.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:43.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:43.fff | space:: fired (tap detected)
+2025-12-24 00:05:43.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:05:47.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:05:47.fff | space:: fired (tap detected)
+2025-12-24 00:05:47.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:06:03.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:06:03.fff | space:: fired (tap detected)
+2025-12-24 00:06:03.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:06:05.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:06:05.fff | space:: fired (tap detected)
+2025-12-24 00:06:05.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:06:30.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:06:31.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:06:31.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:06:31.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:06:39.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:06:39.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:06:39.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:06:39.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:06.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:06.fff | space:: fired (tap detected)
+2025-12-24 00:07:06.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:07.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:07.fff | space:: fired (tap detected)
+2025-12-24 00:07:07.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:07.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:07.fff | space:: fired (tap detected)
+2025-12-24 00:07:07.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:09.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:09.fff | space:: fired (tap detected)
+2025-12-24 00:07:09.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:11.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:11.fff | space:: fired (tap detected)
+2025-12-24 00:07:11.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:12.fff | space:: fired (tap detected)
+2025-12-24 00:07:12.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:13.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:13.fff | space:: fired (tap detected)
+2025-12-24 00:07:13.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:16.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:16.fff | space:: fired (tap detected)
+2025-12-24 00:07:16.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:22.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:22.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:07:22.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:22.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:25.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:25.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:07:25.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:25.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:26.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:26.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:07:26.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:07:26.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:26.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:26.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:27.fff | space:: fired (tap detected)
+2025-12-24 00:07:27.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:27.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:27.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:27.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:28.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:28.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:30.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:30.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:07:30.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:31.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:34.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:34.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:07:34.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:34.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:34.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:34.fff | space:: fired (tap detected)
+2025-12-24 00:07:34.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:07:36.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:36.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:36.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:36.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:36.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:37.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:37.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:37.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:37.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:38.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:38.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:38.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:42.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:42.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:07:43.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:43.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:43.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:44.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:44.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:44.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:44.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:52.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:52.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:52.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:53.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:53.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:07:53.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:53.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:53.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:07:53.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:53.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:55.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:55.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:55.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:07:55.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:07:55.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:07:59.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:07:59.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:07:59.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:00.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:01.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:01.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:01.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:01.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:08:01.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:01.fff | space:: fired (tap detected)
+2025-12-24 00:08:01.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:03.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:04.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:04.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:04.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:06.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:06.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:08:06.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:06.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:08:08.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:08.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:08.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:08.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:08.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:12.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:08:12.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:12.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:13.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:13.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:13.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:13.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:13.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:13.fff | space:: fired (tap detected)
+2025-12-24 00:08:13.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:14.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:15.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:08:15.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:08:15.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:15.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:08:15.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:15.fff | space:: fired (tap detected)
+2025-12-24 00:08:15.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:17.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:17.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:08:17.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:17.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:18.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:18.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:08:18.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:18.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:22.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:22.fff | space+h fired (spaceMode: 1)
+2025-12-24 00:08:22.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:22.fff | Timer: RELEASE confirmed after 79ms - deactivating space mode
+2025-12-24 00:08:23.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:23.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:23.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:24.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:24.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:24.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:24.fff | space:: fired (tap detected)
+2025-12-24 00:08:24.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:25.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:25.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:08:25.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:08:25.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:25.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:27.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:28.fff | space:: fired (tap detected)
+2025-12-24 00:08:28.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:30.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:30.fff | space:: fired (tap detected)
+2025-12-24 00:08:30.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:34.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:34.fff | space+l fired (spaceMode: 1)
+2025-12-24 00:08:34.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:34.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:08:35.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:35.fff | space:: fired (tap detected)
+2025-12-24 00:08:35.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:35.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:35.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:35.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:35.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:35.fff | space:: fired (tap detected)
+2025-12-24 00:08:35.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:36.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:36.fff | space+k fired (spaceMode: 1)
+2025-12-24 00:08:36.fff | space+j fired (spaceMode: 1)
+2025-12-24 00:08:36.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:08:36.fff | Timer: RELEASE confirmed after 63ms - deactivating space mode
+2025-12-24 00:08:44.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:44.fff | space:: fired (tap detected)
+2025-12-24 00:08:44.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:44.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:44.fff | space:: fired (tap detected)
+2025-12-24 00:08:44.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:45.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:45.fff | space:: fired (tap detected)
+2025-12-24 00:08:45.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:47.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:47.fff | space:: fired (tap detected)
+2025-12-24 00:08:47.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:47.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:47.fff | space:: fired (tap detected)
+2025-12-24 00:08:47.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:48.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:48.fff | space:: fired (tap detected)
+2025-12-24 00:08:48.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:50.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:50.fff | space:: fired (tap detected)
+2025-12-24 00:08:50.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:50.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:50.fff | space:: fired (tap detected)
+2025-12-24 00:08:50.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:51.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:51.fff | space:: fired (tap detected)
+2025-12-24 00:08:51.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:52.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:52.fff | space:: fired (tap detected)
+2025-12-24 00:08:52.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:54.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:55.fff | space:: fired (tap detected)
+2025-12-24 00:08:55.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:56.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:56.fff | space:: fired (tap detected)
+2025-12-24 00:08:56.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:56.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:57.fff | space:: fired (tap detected)
+2025-12-24 00:08:57.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:57.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:57.fff | space:: fired (tap detected)
+2025-12-24 00:08:57.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:58.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:58.fff | space:: fired (tap detected)
+2025-12-24 00:08:58.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:08:59.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:08:59.fff | space:: fired (tap detected)
+2025-12-24 00:08:59.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:09:00.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:09:00.fff | space:: fired (tap detected)
+2025-12-24 00:09:00.fff | space up:: fired (spaceMode: 1, KeyState: 0)
+2025-12-24 00:09:02.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:09:02.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:09:02.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:09:03.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:09:03.fff | Timer: RELEASE detected - starting 60ms debounce
+2025-12-24 00:09:03.fff | Timer: RELEASE confirmed after 62ms - deactivating space mode
+2025-12-24 00:09:12.fff | Timer: PRESS detected - activating space mode
+2025-12-24 00:09:12.fff | space:: fired (tap detected)
+2025-12-24 00:09:12.fff | space up:: fired (spaceMode: 1, KeyState: 0)
